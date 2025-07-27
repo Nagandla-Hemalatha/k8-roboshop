@@ -1,0 +1,9 @@
+appVersion: v1
+kind: Pod
+metadata:
+  name: debug
+  namespace: roboshop
+spec:
+  containers:
+  - name: debug
+    image: 614913/debug:v1
