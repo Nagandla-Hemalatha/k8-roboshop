@@ -143,4 +143,4 @@ spec:
   serviceRef:
     name: frontend # route traffic to the awesome-service
     port: 80
-  targetGroupARN: arn:aws:elasticloadbalancing:us-east-1:149536489535:targetgroup/roboshop-dev-frontend/adeb3f8866bb6d81
+  targetGroupARN: arn:aws:elasticloadbalancing:us-east-1:149536489535:targetgroup/roboshop-dev-frontend/310271caf053763d
